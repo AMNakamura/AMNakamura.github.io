@@ -1,0 +1,104 @@
+{"0": {
+    "doc": "Growth and Attrition",
+    "title": "Measuring and Visualizing Growth and Attrition",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/TimeSeries_GrowthAttrition.html#measuring-and-visualizing-growth-and-attrition",
+    "relUrl": "/GenData/TimeSeries_GrowthAttrition.html#measuring-and-visualizing-growth-and-attrition"
+  },"1": {
+    "doc": "Growth and Attrition",
+    "title": "Measuring Retention over Time",
+    "content": "Grids and Rates generates a series of retention grids, uses the grids to extract n-month retention rates, and visualizes retention over time between cohort groups. ",
+    "url": "http://localhost:4000/GenData/TimeSeries_GrowthAttrition.html#measuring-retention-over-time",
+    "relUrl": "/GenData/TimeSeries_GrowthAttrition.html#measuring-retention-over-time"
+  },"2": {
+    "doc": "Growth and Attrition",
+    "title": "Visualizing the Balance between Growth Attrition Over Time",
+    "content": "Layer Cakes generates a series of specialized stacked area charts, using “Layer Cakes” (courtesy ThinkInsights.net) to visualize inflow and total cohort membership over time. ",
+    "url": "http://localhost:4000/GenData/TimeSeries_GrowthAttrition.html#visualizing-the-balance-between-growth-attrition-over-time",
+    "relUrl": "/GenData/TimeSeries_GrowthAttrition.html#visualizing-the-balance-between-growth-attrition-over-time"
+  },"3": {
+    "doc": "Growth and Attrition",
+    "title": "Visualizing Growth and Attrition Using Networks and Alluvial Diagrams",
+    "content": "Networks and Alluvials makes use of network and alluvial layouts to examine the flow of cohort members through different groups over time. ",
+    "url": "http://localhost:4000/GenData/TimeSeries_GrowthAttrition.html#visualizing-growth-and-attrition-using-networks-and-alluvial-diagrams",
+    "relUrl": "/GenData/TimeSeries_GrowthAttrition.html#visualizing-growth-and-attrition-using-networks-and-alluvial-diagrams"
+  },"4": {
+    "doc": "Growth and Attrition",
+    "title": "Growth and Attrition",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/TimeSeries_GrowthAttrition.html",
+    "relUrl": "/GenData/TimeSeries_GrowthAttrition.html"
+  },"5": {
+    "doc": "Generated cohort and survey datasets",
+    "title": "Generated cohort and survey datasets for code testing",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/genData_ChrtsAndSurveys.html#generated-cohort-and-survey-datasets-for-code-testing",
+    "relUrl": "/GenData/genData_ChrtsAndSurveys.html#generated-cohort-and-survey-datasets-for-code-testing"
+  },"6": {
+    "doc": "Generated cohort and survey datasets",
+    "title": "Fake Cohort1",
+    "content": "Make A Fake Cohort 1 generates a series of sample cohorts from user inputs (cohort start and end dates, sample categorical groupings, and seasonal terms). Cohort members are randomly selected to enter and leave the cohort at any time, and to switch group membership mid-way through. Seasonal weights create optional yearly seasonal patterns in the data. Data link . ",
+    "url": "http://localhost:4000/GenData/genData_ChrtsAndSurveys.html#fake-cohort1",
+    "relUrl": "/GenData/genData_ChrtsAndSurveys.html#fake-cohort1"
+  },"7": {
+    "doc": "Generated cohort and survey datasets",
+    "title": "Generated surveys",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/genData_ChrtsAndSurveys.html#generated-surveys",
+    "relUrl": "/GenData/genData_ChrtsAndSurveys.html#generated-surveys"
+  },"8": {
+    "doc": "Generated cohort and survey datasets",
+    "title": "Fake Survey1",
+    "content": "Make A Fake Survey makes use of MLRun’s demo-stocks “reviews” dataset for sentiment analysis, topic modeling, and other analyses of text, adding some additional columns with random rating panels. Customize as needed to mimic data extracted from sources like SPSS or the Qualtrics API, where data will be labeled already (for Qualtrics, for example, the labels will match the survey question text). Data link . ",
+    "url": "http://localhost:4000/GenData/genData_ChrtsAndSurveys.html#fake-survey1",
+    "relUrl": "/GenData/genData_ChrtsAndSurveys.html#fake-survey1"
+  },"9": {
+    "doc": "Generated cohort and survey datasets",
+    "title": "Generated cohort and survey datasets",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/genData_ChrtsAndSurveys.html",
+    "relUrl": "/GenData/genData_ChrtsAndSurveys.html"
+  },"10": {
+    "doc": "Welcome!",
+    "title": "Welcome!",
+    "content": "This site helps organize repositories containing small data visualization and proof of concept projects, using generated or publicly available datasets. ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"11": {
+    "doc": "Links",
+    "title": "Coding",
+    "content": ". | R Bloggers | Python Bloggers | Rubyland | HTML and CSS cheat sheets | . ",
+    "url": "http://localhost:4000/myfavlinks.html#coding",
+    "relUrl": "/myfavlinks.html#coding"
+  },"12": {
+    "doc": "Links",
+    "title": "Website credits",
+    "content": ". | Jekyll development | Just-the-docs theme configuration | . ",
+    "url": "http://localhost:4000/myfavlinks.html#website-credits",
+    "relUrl": "/myfavlinks.html#website-credits"
+  },"13": {
+    "doc": "Links",
+    "title": "Other helpful resources",
+    "content": ". | Mathjax Cheat Sheet for Mathematical Notation | Comprehensive R Network | Python Package Index | Pletica - Diagram and conceptual mapping | Directed Acyclic Graph (DAG) tools | . ",
+    "url": "http://localhost:4000/myfavlinks.html#other-helpful-resources",
+    "relUrl": "/myfavlinks.html#other-helpful-resources"
+  },"14": {
+    "doc": "Links",
+    "title": "Links",
+    "content": " ",
+    "url": "http://localhost:4000/myfavlinks.html",
+    "relUrl": "/myfavlinks.html"
+  },"15": {
+    "doc": "Time Series",
+    "title": "Time Series",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/parent_TimeSeries.html",
+    "relUrl": "/GenData/parent_TimeSeries.html"
+  },"16": {
+    "doc": "Generated data",
+    "title": "Generated data",
+    "content": " ",
+    "url": "http://localhost:4000/GenData/parent_genData.html",
+    "relUrl": "/GenData/parent_genData.html"
+  }
+}
