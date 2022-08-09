@@ -14,7 +14,7 @@ nav_order: 3
 
 ## Visualizing the Balance between Growth Attrition Over Time  
 
-[Layer Cakes](https://github.com/AMNakamura/miscellanea/blob/master/time_series/Retention1_GridsPlusRates.md) generates a series of specialized stacked area charts, using "Layer Cakes" (courtesy [ThinkInsights.net](https://thinkinsights.net/digital/cohort-analysis-using-layer-cake-graphs-with-r/)) to visualize inflow and total cohort membership over time.
+[Layer Cakes](https://github.com/AMNakamura/miscellanea/blob/master/time_series/Retention2_LayerCakes.md) generates a series of specialized stacked area charts, using "Layer Cakes" (courtesy [ThinkInsights.net](https://thinkinsights.net/digital/cohort-analysis-using-layer-cake-graphs-with-r/)) to visualize inflow and total cohort membership over time.
 
 ## Visualizing Growth and Attrition Using Networks and Alluvial Diagrams
 
