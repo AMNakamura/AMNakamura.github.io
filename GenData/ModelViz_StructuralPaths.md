@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Causal Graphs with DiagrammeR
+title: Causal Graphs and Structural Pathways
 parent: DAGs and Other Visual Models
 nav_order: 1
 ---
@@ -11,3 +11,6 @@ nav_order: 1
 
 [Confound0](https://github.com/AMNakamura/miscellanea/blob/master/modelViz/Confound0.md) creates simple visual diagrams that can describe a causal relationship, using the **DiagrammeR** package. Describes `DOT` graph specifications and `GraphViz` syntax for some well-known and lesser-known examples of confounding, mediation, moderation, and intermediate variable bias. 
 
+## Path Diagrams
+
+[Clay0](https://github.com/AMNakamura/miscellanea/blob/master/modelViz/Clay0.md) uses a path diagram to explore relationships between clay characteristics and compressibility. Creates a large palette for examining pairwise correlatins; creates a CFA model with some proposed relationships (e.g., between water void and compressibility), and plots a path diagram.  
