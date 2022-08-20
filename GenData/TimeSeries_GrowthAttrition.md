@@ -2,7 +2,7 @@
 layout: default
 title: Growth and Attrition
 parent: Time Series
-nav_order: 3
+nav_order: 1
 ---
 
 # Measuring and Visualizing Growth and Attrition 

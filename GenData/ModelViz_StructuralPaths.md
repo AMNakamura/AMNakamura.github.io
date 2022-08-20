@@ -14,3 +14,8 @@ nav_order: 1
 ## Path Diagrams
 
 [Clay0](https://github.com/AMNakamura/miscellanea/blob/master/modelViz/Clay0.md) uses a path diagram to explore relationships between clay characteristics and compressibility. Creates a large palette for examining pairwise correlatins; creates a CFA model with some proposed relationships (e.g., between water void and compressibility), and plots a path diagram.  
+
+
+# Other Models 
+
+[Creating a DSRP Model in R](https://github.com/AMNakamura/miscellanea/blob/master/modelViz/DSRP0.md) creates a Distinctions, Systems, Relationships, Perspectives model, using the **DiagrammeR** package and some HTML.
