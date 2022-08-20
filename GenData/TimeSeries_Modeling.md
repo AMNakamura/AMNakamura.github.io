@@ -5,7 +5,6 @@ parent: Time Series
 nav_order: 2
 ---
 
-
 [Organizing GLS Models](https://github.com/AMNakamura/miscellanea/blob/master/time_series/GLS_Scaled0.md) uses list processing and functions applied to lists to enable processing of a number of time series for OLS and GLS models, to consolidate diagnostic plots and other visualizations and reduce the lines of code (goal < 500 lines, with comments). 
 Tables with model characteristics are coerced into data frames and formatted for quick review. 
 
